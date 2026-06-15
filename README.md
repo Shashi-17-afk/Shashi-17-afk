@@ -1,34 +1,88 @@
-<h1 align="center">Hi 👋, I'm Shashi Shanthan</h1>
-<h3 align="center">A passionate Applied AI Full Stack Developer from India</h3>
+<div align="center">
 
+# Shashi Shanthan
 
-- 🔭 I’m currently working on [TechVault](https://frontend-iota-one-9pwmku51te.vercel.app/)
+**Applied AI Full Stack Developer**
 
-- 🌱 I’m currently learning **Full Stack(Node.js / Typescript,Next.js) , LLM(LangChain , RAG , LangGraph) , Gen Ai**
+*Building things that actually work — fast.*
 
-- 👯 I’m looking to collaborate on **Ai Full Stack Web Applications**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-plum-eight-18.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi-shanthan-6628a9412/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/notshashi-/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shashii2706)
 
-- 🤝 I’m looking for **Internships**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-new-plum-eight-18.vercel.app/](https://portfolio-new-plum-eight-18.vercel.app/)
+---
 
-- 💬 Ask me about **React, Node.js, Express.js, TypeScript, Java, Python, REST APIs**
+## Who I am
 
-- 📫 How to reach me **shashishanthan2706@gmail.com**
+Second-year CS student at **IIT Patna** who builds things before being told to.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tada3bDfV_bYhF9X7bz4KpUAIlf3KgwT/view](https://drive.google.com/file/d/1tada3bDfV_bYhF9X7bz4KpUAIlf3KgwT/view)
+I don't wait for assignments to ship. Multiplayer games, AI tools, full-stack platforms — built because I wanted to solve something real. I move fast, figure things out, and get it deployed.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shashii2706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashii2706" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashi-shanthan-6628a9412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashi-shanthan-6628a9412/" height="30" width="40" /></a>
-<a href="https://instagram.com/shashi._.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashi._.v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/notshashi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/notshashi-/" height="30" width="40" /></a>
-</p>
+Currently looking for **remote internships** in AI Full Stack development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+📫 shashishanthan2706@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi-17-afk&show_icons=true&locale=en&layout=compact" alt="shashi-17-afk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-17-afk&show_icons=true&locale=en" alt="shashi-17-afk" /></p>
+## What I'm building
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 **AI Hiring Screener** | HR posts a JD, candidates upload resumes, AI scores 0-100 with reasoning, live leaderboard updates in real time | React, Cloudflare Workers, Workers AI, Vectorize, D1, Durable Objects |
+| 🎮 **UNO Multiplayer** | Real-time multiplayer card game with room-based lobbies for 4 concurrent players | JavaScript, Socket.IO, Node.js |
+| 🛒 **E-Commerce Platform** | Full-stack store with cart, auth, and REST API integration | React, Node.js, MongoDB |
+| 📺 **Netflix Clone** | Streaming interface with real-time API content fetching and Firebase auth | React, Tailwind, Firebase |
+| 🔧 **TechVault** | Currently building | Full Stack |
+
+---
+
+## Stack
+
+**Frontend**
+React.js · JavaScript ES6+ · TypeScript · Tailwind CSS · HTML5 · CSS3
+
+**Backend**
+Node.js · Express.js · REST APIs · WebSockets · Socket.IO
+
+**AI & GenAI**
+LLM Integration · RAG · Vector Embeddings · Prompt Engineering · Workers AI (llama, bge)
+
+**Cloud & Edge**
+Cloudflare Workers · Workers AI · Vectorize · D1 · Durable Objects · Vercel · Firebase
+
+**Databases**
+MongoDB · MySQL · Cloudflare D1
+
+**Languages**
+Python · Java · C · C++
+
+---
+
+## Highlights
+
+🏆 **1st Place — Bug Hunt**, AZURA 2k25 National Technical Symposium (150+ participants)
+
+⚡ **Cloudflare IRL Bengaluru Hackathon** — Built and deployed a full AI product in under 4 hours among 52 engineers (Jun 2025)
+
+💡 **200+ DSA problems** solved on LeetCode and GFG
+
+---
+
+## Currently learning
+
+```
+Node.js / Express.js  ████████░░  80%
+LLM / RAG / LangChain ██████░░░░  60%
+System Design         ████░░░░░░  40%
+```
+
+---
+
+<div align="center">
+
+*Open to remote internship opportunities — let's build something.*
+
+</div>
