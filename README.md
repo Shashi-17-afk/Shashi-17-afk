@@ -31,11 +31,10 @@ Currently looking for **remote internships** in AI Full Stack development.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 **AI Hiring Screener** | HR posts a JD, candidates upload resumes, AI scores 0-100 with reasoning, live leaderboard updates in real time | React, Cloudflare Workers, Workers AI, Vectorize, D1, Durable Objects |
+| 🤖 **HireSight** | HR posts a JD, candidates upload resumes, AI scores 0-100 with reasoning, live leaderboard updates in real time | React, Cloudflare Workers, Workers AI, Vectorize, D1, Durable Objects |
 | 🎮 **UNO Multiplayer** | Real-time multiplayer card game with room-based lobbies for 4 concurrent players | JavaScript, Socket.IO, Node.js |
-| 🛒 **E-Commerce Platform** | Full-stack store with cart, auth, and REST API integration | React, Node.js, MongoDB |
+| 🛒 **TechVault** | Full-stack store with cart, auth, and REST API integration | React, Node.js, MongoDB |
 | 📺 **Netflix Clone** | Streaming interface with real-time API content fetching and Firebase auth | React, Tailwind, Firebase |
-| 🔧 **TechVault** | Currently building | Full Stack |
 
 ---
 
